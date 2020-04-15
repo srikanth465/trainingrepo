@@ -1,3 +1,0 @@
-thsi will cause conflict issue while merging
-this is the sample file
-this will cause conflict problem
