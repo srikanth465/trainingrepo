@@ -1,0 +1,2 @@
+this is sample file created in master branch
+copy of the content from branch1 folder
