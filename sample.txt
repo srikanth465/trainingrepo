@@ -1,2 +1,4 @@
 this is sample file created in master branch
 copy of the content from branch1 folder
+this is the sample file for testing
+branch1 file added
