@@ -3,3 +3,5 @@ copy of the content from branch1 folder
 this is the sample file for testing
 stash comment added for testing. stash pop and apply command need to be tested
 branch1 file added
+added diff command line. 
+new line added for git reset command
